@@ -52,7 +52,7 @@ Want to improve these notes?
 * Create a pull request
 
 ## ⭐ Support
-*If you like this project, give it a ⭐ on GitHub and share it with your friends!i
+If you like this project, give it a ⭐ on GitHub and share it with your friends!i
 
 ## 📧 Contact
 
