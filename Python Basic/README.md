@@ -1,5 +1,14 @@
-# **Complete Python Notes – Beginner to Advanced**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Powerful%20%26%20Versatile%20Programming%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
+<h1 align="center">🐍 Python – The Backbone of Modern Data & AI</h1>
+
+<p align="center">
+  Simple • Powerful • Scalable
+</p>
+
+---
 ## **1. Introduction to Python**
 
 * **What is Python?**
