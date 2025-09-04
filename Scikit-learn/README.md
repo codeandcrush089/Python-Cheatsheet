@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn%20Library-Machine%20Learning%20Made%20Simple-F57C00?style=for-the-badge&logo=python&logoColor=white" alt="Scikit-learn" />
+</p>
 
-# Scikit-learn 
+<h1 align="center">🤖 Scikit-learn – Machine Learning in Python</h1>
+
+<p align="center">
+  Train • Predict • Optimize
+</p>
+
 
 ---
 
