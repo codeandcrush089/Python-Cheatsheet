@@ -1,6 +1,13 @@
-<div align="center">
-<h1> Dask </h1>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dask%20Library-Data%20Processing%20Made%20Easy-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Dask Logo" />
+</p>
+
+<h1 align="center">🚀 Dask – Scalable Python for Big Data</h1>
+
+<p align="center">
+  Efficient • Parallel • Powerful
+</p>
+
 
 ## **1. Introduction**
 
