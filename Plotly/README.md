@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Plotly%20Library-Interactive%20Data%20Visualization-00BFA5?style=for-the-badge&logo=python&logoColor=white" alt="Plotly" />
+</p>
 
-# Plotly 
+<h1 align="center">📈 Plotly – Interactive & Dynamic Visualizations</h1>
+
+<p align="center">
+  Interactive • Analytical • Engaging
+</p>
+
 
 ---
 
