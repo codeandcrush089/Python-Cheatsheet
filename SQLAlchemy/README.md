@@ -1,4 +1,12 @@
-# SQLAlchemy – Complete Notes
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLAlchemy%20Library-Database%20ORM%20%26%20SQL%20Toolkit-6A1B9A?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy" />
+</p>
+
+<h1 align="center">🗄️ SQLAlchemy – Powerful ORM & SQL Toolkit</h1>
+
+<p align="center">
+  Connect • Query • Automate
+</p>
 
 ---
 
