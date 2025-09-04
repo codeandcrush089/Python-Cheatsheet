@@ -1,5 +1,14 @@
-# Statsmodels & SciPy 
+<p align="center">
+  <img src="https://img.shields.io/badge/Statsmodels%20%26%20SciPy-Statistical%20%26%20Scientific%20Computing-0288D1?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels & SciPy" />
+</p>
 
+<h1 align="center">📐 Statsmodels & SciPy – Statistical & Scientific Computing</h1>
+
+<p align="center">
+  Model • Test • Optimize
+</p>
+
+---
 ## **1. Introduction**
 
 ### **Statsmodels**
