@@ -1,5 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/NLTK%20Library-Natural%20Language%20Processing-9C27B0?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
+</p>
 
-# NLTK 
+<h1 align="center">🧠 NLTK – Powering Natural Language Processing in Python</h1>
+
+<p align="center">
+  Tokenize • Analyze • Understand
+</p>
 
 ---
 
