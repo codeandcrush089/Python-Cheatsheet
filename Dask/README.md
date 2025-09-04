@@ -1,6 +1,6 @@
-#  Dask 
-
----
+<div align="center">
+<h1> Dask </h1>
+</div>
 
 ## **1. Introduction**
 
