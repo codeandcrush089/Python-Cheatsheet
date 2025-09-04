@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow%20Library-Deep%20Learning%20%26%20AI-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="TensorFlow" />
+</p>
 
-# TensorFlow 
+<h1 align="center">🧠 TensorFlow – Scalable Deep Learning Framework</h1>
+
+<p align="center">
+  Build • Train • Deploy
+</p>
+
 
 ---
 
