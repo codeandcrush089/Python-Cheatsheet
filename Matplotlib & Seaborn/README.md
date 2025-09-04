@@ -1,6 +1,13 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib%20%26%20Seaborn-Data%20Visualization-2196F3?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib & Seaborn" />
+</p>
 
-# Matplotlib & Seaborn 
----
+<h1 align="center">📊 Matplotlib & Seaborn – Elegant Data Visualization in Python</h1>
+
+<p align="center">
+  Charts • Graphs • Insights
+</p>
+
 
 ## **1. Introduction**
 
