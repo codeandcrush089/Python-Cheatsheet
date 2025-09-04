@@ -1,5 +1,14 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20Cheatsheet-From%20Zero%20to%20Hero-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Cheatsheet" />
+</p>
 
+<h1 align="center">🐍 Python Cheatsheet – From Zero to Hero</h1>
 
+<p align="center">
+  Learn • Practice • Master
+</p>
+
+---
 
 # Python Cheatsheet – From Zero to Hero 🐍
 
