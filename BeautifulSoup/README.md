@@ -1,6 +1,13 @@
-<div align="center">
-<h1> BeautifulSoup <h1>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/BeautifulSoup%20Library-HTML%20%26%20XML%20Parsing-4CAF50?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
+</p>
+
+<h1 align="center">🍵 BeautifulSoup – Powerful Web Scraping Made Easy</h1>
+
+<p align="center">
+  Parse • Extract • Automate
+</p>
+
 
 ## **1. Introduction**
 
