@@ -1,7 +1,6 @@
-
-# BeautifulSoup 
-
----
+<div align="center">
+<h1> BeautifulSoup <h1>
+</div>
 
 ## **1. Introduction**
 
