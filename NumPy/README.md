@@ -1,6 +1,13 @@
 
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy%20Library-High%20Performance%20Computing-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="NumPy" />
+</p>
 
-# NumPy Library 
+<h1 align="center">🔢 NumPy – Fast Numerical Computing for Python</h1>
+
+<p align="center">
+  Arrays • Math • Efficiency
+</p>
 
 ---
 
