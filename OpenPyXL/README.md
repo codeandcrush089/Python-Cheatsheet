@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenPyXL%20Library-Excel%20Automation%20%26%20Data%20Handling-388E3C?style=for-the-badge&logo=python&logoColor=white" alt="OpenPyXL" />
+</p>
 
-# OpenPyXL
+<h1 align="center">📗 OpenPyXL – Excel Automation for Python</h1>
+
+<p align="center">
+  Create • Edit • Analyze
+</p>
+
 
 ---
 
